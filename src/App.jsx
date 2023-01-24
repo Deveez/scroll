@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
   return (
-    <div style={{ height: "100vh" }}>
+    <div style={{ display: "flex", flexDirection: "column", height: "100vh" }}>
       <div>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat volutpat quam, eget bibendum leo. Praesent
         lacinia purus non turpis suscipit, nec bibendum erat sagittis. Suspendisse rhoncus sagittis sapien nec mattis.
